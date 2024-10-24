@@ -35,7 +35,7 @@
     "express": ">=3.11 <4",
     "pug": "^2.0.0-alpha3",
     "socket.io": ">=0.9.7",
-    "stylus": "^0.54.2"
+    "stylus": "^0.64.0"
   },
   "engines": {
     "node": "5.0.0",
